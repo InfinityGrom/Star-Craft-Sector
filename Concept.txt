@@ -1,0 +1,55 @@
+New factions will be added, as will new ships. This is a place to put together ideas.
+
+---------------------------------Protoss---------------------------------
+
+Starting place: Core/Near core. Aiur near core, Shakuras somewhere random (non-core), Purifiers on the outside, Tal'Darim near core.
+
+Politics: Delaam, Nerazim allign with Tri-Tech, maybe Persian League. Purifiers allign with independents and remnants. Tal'Darim with pirates. Constant hate from Hedge for AI usage to all.
+
+Fleet doctrine: high-tech ships with lots of hangars.
+
+Ships for Delaam design are golden + blue crystals.	For Nerazim dark grey/purple + green crystals.	For Purifiers white with black outlines + orange crystals.	For Tal'Darim black + red crystals.
+Delaam are balanced version of the designes. 		Nerazim designs are phaze ships.		Purifiers are glass cannons.					Tal'Darim are protoss pirates/Luddic Path
+
+LEGEND (D) 	Spear of Adun - huge capital ship. One of the Ark ships, while ancient, is incredibly powerful once restored fully. Salvaged in outer space, with lots of D-mods. Holds a lot of everything but has low speed + low rotation speed, thus can be swarmed but has phase jump.
+
+(D, N, T, P)	Mothership - station that can be relocated (and phase jumps during battle). Nerazim version phases. Tal'Darim has a ray of death that can be fired once in a while. Purifier has better shields. 
+
+(D, T, P)	Carrier - heavy battleship that holds a lot of aircraft. Holds substantial amount of cargo and fuel, downside - high maintenance and a lot of crew? Tal'Darim is faster and is lower on upkeep, lower hangar count. Purifier version has a destroyer lazer beam. 
+
+(D, P)		Tempest - siege battleship, has a fixed cannon that throws a huge ball of plasma at the target. Big ship killer basically. Purifiers apply DOT damage with plasma ball.
+
+(N, T, P)	Destroyer - normal-ish ship, with ability to fire a powerful fixed beam. Nerazim can phaze, Tal'Darim version have bouncing beam, Purifiers - stronger beam. 
+
+(D, N, T, P)	Scout - a frigate with guns and some rockets, mostly used as fighter. Does decent damage. Nerazim instead has Corsair, area damage but no rockets. Tal'Darim version is faster and lighter, Purifier version ignores damage once in a while, no rockets or guns - just plasma cannons.
+
+(D, N, T, P)	Fighter - a fighter squadron used by Protoss. Delaam version is Interceptor, hosting two beams. Nerazim is phaze-bombers. Tal'Darim are lighter interceptors but there are more of them. Purifiers are echo-bombers, hosting cluster bombs.
+
+
+---------------------------------Terran---------------------------------
+
+Starting place: Core/Near core. Mengsk (Terran Dominion) near core, Raynor near core, Umoja near core, Kel'Morian near core.
+
+Politics: Mengsk alligned with Sindicate (hated by Hedge). Raynor alligned with League (hated by Hedge). Umoja alligned with Tri-Tachion (extremely hated by Hedge). Kel'Morian allign with Luddic Path and pirates (nobody cares).
+
+Fleet doctrine: usually guns + armor, with some exceptions.
+
+Ships for Mengsk are gold (elite) or red.		For Raynor black and blue.	For Umoja white or silver with blue outlines.		For Kel'Morian grey with purple.
+Mengsk ships are expensive but powerful (hedge-style).	Raynor ships are flexible.	Umoja are high-tech designs.				Kel'Morian are just low-tech with lots of storage.
+
+(M, R, K) Capital ships. Mengsk = Gorgon - extreme broadside armaments and very heavy armor, plus some light fighters, "I" shaped. Raynor = Hyperion - jack of all trades, has phase jump. Kel'Morians have a LOT of rockets, also phase jump.
+
+(M, R, U, K) Battlecruisers. General design is "I" shape but the front is longer, all have phase jump. Mengsk has Pride of Augustgrad - fires three AOE plasma rounds from front fixed mount, expensive. Raynor has Minotaur, fires one plasma from front fixed mount, has large rocket mount (NUKES). Umoja has fighter hangars. Kel'Morians have bigger and stronger front cannon but worse armament, capital killer.
+
+
+---------------------------------Zerg---------------------------------
+
+Starting place: On the outskits. Designed to be a mid/late game crisis and flood the sector.
+
+Politics: Hostile to everyone.
+
+Fleet doctrine: no shields, but hull regen (not armor!).
+
+Ships for Zerg are inexpensive and use unique weapons. 
+
+Leviathan
